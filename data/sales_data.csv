@@ -1,1 +1,13 @@
-This folder contains the datasets used in this project including raw and processed data.
+order_id,order_date,product_category,product_name,sales_amount,quantity,region,customer_segment,profit,discount
+1001,2024-01-05,Electronics,Laptop,1200,2,West,Consumer,250,0.10
+1002,2024-01-07,Furniture,Office Chair,300,1,East,Corporate,60,0.05
+1003,2024-01-10,Technology,Printer,450,1,South,Home Office,90,0.08
+1004,2024-01-15,Electronics,Tablet,800,3,West,Consumer,180,0.12
+1005,2024-01-20,Furniture,Desk,650,1,Central,Corporate,120,0.07
+1006,2024-02-03,Technology,Monitor,500,2,East,Consumer,100,0.06
+1007,2024-02-08,Electronics,Smartphone,1000,4,South,Home Office,220,0.10
+1008,2024-02-14,Furniture,Bookshelf,400,2,West,Corporate,75,0.05
+1009,2024-02-18,Technology,Keyboard,150,5,Central,Consumer,40,0.03
+1010,2024-02-25,Electronics,Headphones,250,6,East,Consumer,55,0.04
+1011,2024-03-02,Furniture,Table,700,1,West,Corporate,130,0.09
+1012,2024-03-06,Technology,Mouse,120,4,South,Consumer,30,0.02
