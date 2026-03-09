@@ -1,0 +1,32 @@
+# Sales Forecasting Dashboard
+
+This folder contains the Power BI dashboard developed for the Sales Forecasting & Revenue Analytics project. 
+The dashboard provides interactive visualizations to analyze historical sales performance and monitor key business metrics.
+
+## Dashboard Content
+
+The dashboard includes the following visualizations:
+
+• Total Revenue KPI – Displays overall revenue generated from sales data  
+• Monthly Sales Trend – Shows revenue trends over time to identify growth patterns  
+• Sales by Product Category – Highlights the performance of different product categories  
+• Top-Selling Products – Identifies the products generating the highest revenue  
+• Regional Sales Analysis – Compares sales performance across different regions  
+• Profit Margin Analysis – Evaluates profitability across products and regions  
+• Forecasted Sales Trend – Displays predicted sales using time-series forecasting models
+
+## Purpose of the Dashboard
+
+The dashboard helps businesses:
+
+• Monitor revenue performance in real time  
+• Identify high-performing products and regions  
+• Detect seasonal sales trends  
+• Support data-driven decision making  
+• Improve sales forecasting and planning
+
+## Tools Used
+
+• Power BI  
+• Python (for data preprocessing and forecasting)  
+• SQL (for sales data analysis)
